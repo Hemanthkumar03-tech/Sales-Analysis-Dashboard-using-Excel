@@ -1,3 +1,5 @@
 # Sales-Analysis Dashboard using Excel
 <img width="1246" height="554" alt="Screenshot 2026-04-04 161830" src="https://github.com/user-attachments/assets/f037b426-979a-4485-8b21-0a3379b1b5de" />
 This project showcases a Sales Analysis Dashboard for an online gifting platform, providing insights into orders, revenue, and customer behavior. It analyzes 1000 total orders generating ₹35.2 lakh in revenue, with an average customer spend of ₹3,520. The dashboard highlights key trends such as higher sales during occasions like Anniversary and Raksha Bandhan. It also identifies top-performing categories like Colors and Soft Toys. Monthly and hourly analysis reveal seasonal peaks and evening order trends. Additionally, top products and cities contributing to sales are visualized. Interactive filters allow users to explore data by date and occasion. Overall, the dashboard helps in making data-driven business decisions and improving sales strategies.
+Tech Used
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/f961d703-05a7-4013-b2d9-a5b4e2b0f7fd" />
